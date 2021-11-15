@@ -1,0 +1,26 @@
+ $gray: #F4F4F4;
+
+ body {
+   background: $gray;
+ }
+
+ .link {
+   text-decoration: none;
+   color:rgb(93, 93, 204);
+ }
+
+ .link:hover {
+   color:rgb(115, 196, 250);
+ }
+
+ #ask {
+   height: 30px;
+ }
+
+ #button {
+   color: whitesmoke;
+   background: blue;
+   border-radius: 25px;
+   width: 70px;
+   height: 35px;
+ }
